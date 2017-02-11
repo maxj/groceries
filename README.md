@@ -6,7 +6,7 @@ flights are a mess but this gave me something to do!
 ## Usage
 
 ```sh
-[mjordan@localhost groceries]$ python letsGoShopping.py 
+[mjordan@localhost groceries]$ python groceries.py 
 Hi Gabe!  I was thinking of some of the following recipes:
 pizza
 pancakes
